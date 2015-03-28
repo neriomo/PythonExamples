@@ -63,7 +63,8 @@ class Coche:
 
 
 	
-
+print
+print "se crea un conche con 15 litros de gasolina"
 
 mi_coche =  Coche(15)
 print("gasolina del coche: ",mi_coche.gasolina)
